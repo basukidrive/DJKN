@@ -46,7 +46,7 @@
           x="336"
           y="24"
           width="277"
-          height="457"/>
+          height="361"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-7d75ac8a767b42f790bd20d3bb85d0f6">
@@ -179,7 +179,7 @@
           x="36"
           y="24"
           width="277"
-          height="325"/>
+          height="217"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-e58c31e309d04319904f2c6a00ebbfb3">
@@ -263,8 +263,8 @@
       <bounds
           x="636"
           y="24"
-          width="217"
-          height="457"/>
+          width="145"
+          height="337"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-1a5a9915164e4c4d81e03a1843dda7c0">
@@ -300,6 +300,30 @@
         <archimateElement
             xsi:type="archimate:ApplicationFunction"
             href="ApplicationFunction_id-96032948ab3b4c5b8e771fe7687e07db.xml#id-96032948ab3b4c5b8e771fe7687e07db"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-fe16a0f685a945329e0726aaae9123b5">
+        <bounds
+            x="12"
+            y="204"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:ApplicationFunction"
+            href="ApplicationFunction_id-18089ff29bc643b1b5dd8d59ae7a3833.xml#id-18089ff29bc643b1b5dd8d59ae7a3833"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-28443e18fd8c4d398d1425c67333ab5a">
+        <bounds
+            x="12"
+            y="264"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:ApplicationFunction"
+            href="ApplicationFunction_id-f02cab456bd04a82a57524fb1173fdc9.xml#id-f02cab456bd04a82a57524fb1173fdc9"/>
       </children>
       <archimateElement
           xsi:type="archimate:ApplicationService"
