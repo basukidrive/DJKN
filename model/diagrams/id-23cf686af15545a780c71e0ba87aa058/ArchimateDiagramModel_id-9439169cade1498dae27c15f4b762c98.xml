@@ -11,8 +11,8 @@
     <bounds
         x="12"
         y="12"
-        width="637"
-        height="253"/>
+        width="541"
+        height="229"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-61f40314b59546b2a91aae83065c3cbb">
@@ -130,8 +130,8 @@
     <bounds
         x="12"
         y="276"
-        width="637"
-        height="325"/>
+        width="541"
+        height="289"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1162d0c9d7dd4520ad084e20e0c57e6c">
