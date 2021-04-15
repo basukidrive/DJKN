@@ -79,7 +79,7 @@
     <bounds
         x="456"
         y="79"
-        width="409"
+        width="541"
         height="210"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -188,6 +188,18 @@
       <archimateElement
           xsi:type="archimate:SystemSoftware"
           href="SystemSoftware_id-8dc2791dcb814bb682ee7e8fec8c40a0.xml#id-8dc2791dcb814bb682ee7e8fec8c40a0"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-6d1be7432d8f4fa290f7c9b906c53d8b">
+      <bounds
+          x="408"
+          y="24"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-e49763532b96484a9e3a7cf7e5294e7f.xml#id-e49763532b96484a9e3a7cf7e5294e7f"/>
     </children>
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
