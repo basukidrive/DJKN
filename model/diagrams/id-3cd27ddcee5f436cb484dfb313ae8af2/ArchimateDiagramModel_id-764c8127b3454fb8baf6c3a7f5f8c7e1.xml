@@ -114,7 +114,7 @@
             x="12"
             y="108"
             width="120"
-            height="96"/>
+            height="120"/>
         <archimateElement
             xsi:type="archimate:BusinessFunction"
             href="BusinessFunction_id-068ae8d2dc5d4c969c97eb15944313e0.xml#id-068ae8d2dc5d4c969c97eb15944313e0"/>
@@ -138,7 +138,7 @@
           targetConnections="id-41b1dedadf664dc9a636e93a0ed884ca">
         <bounds
             x="12"
-            y="216"
+            y="240"
             width="120"
             height="55"/>
         <archimateElement
