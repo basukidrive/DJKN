@@ -363,28 +363,6 @@
         href="BusinessActor_id-09932cf6f3c0464c8fb76dbac3a490f2.xml#id-09932cf6f3c0464c8fb76dbac3a490f2"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-4c86e16338cc4859835194a0f943c794"
-      textAlignment="1"
-      content="gambarkan pengelola barang menghasilkan SK/persetujuan yang direkam di wasdal, dari wasdal satker kemudian melaporkan laporan wasdal ke KPKNL, KPKNL membuat laporan pemilahan, kanwil buat laporan pemilahan, kirim ke PKNSI&#xD;&#xA;&#xD;&#xA;simplifikasi tidak ada laporan pemilahan, langsung cetak di kanwil dan di pknsi karena data sudah ada di SIMAN&#xD;&#xA;">
-    <bounds
-        x="48"
-        y="576"
-        width="325"
-        height="169"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-40c65fe37a6546f9828c13c4811a5d14"
-      textAlignment="1"
-      content="atau penerbitan sudah lewat plugin pengelolaan, data otomatis terekam ke wasdal, satker tidak ada lagi proses input SK/persetujuan&#xD;&#xA;hanya input tindak lanjut dan PNBP jika ada, lalu cetak/susun laporan wasdal baru kemudian dikirim (tidak perlu mekanisme kirim (?))&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;apakah langsung to be atau menggambarkan kondisi eksisting dulu?">
-    <bounds
-        x="395"
-        y="576"
-        width="302"
-        height="169"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-902cdd3b3b1d43d0943de3574c61b62c"
       targetConnections="id-55a3bf6bdb93473b8240f9805b2042e1 id-1825812950f64b1481f480a710a12d6f">
