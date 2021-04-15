@@ -79,8 +79,8 @@
     <bounds
         x="456"
         y="79"
-        width="277"
-        height="198"/>
+        width="409"
+        height="210"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3eaa9ffdc12a48419a53c0d2675defdc">
@@ -128,6 +128,66 @@
       <archimateElement
           xsi:type="archimate:SystemSoftware"
           href="SystemSoftware_id-e15ffd61d86f42aa9eb2e9a046c4258c.xml#id-e15ffd61d86f42aa9eb2e9a046c4258c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-31b0b10f5bce47cb880f7dc22331c2fb">
+      <bounds
+          x="276"
+          y="24"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-37dee0e7450741b59c848fe2f8e3f89b.xml#id-37dee0e7450741b59c848fe2f8e3f89b"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c2ee8838354843f1a5ab39eba06cce51">
+      <bounds
+          x="276"
+          y="84"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-52981d0d7bf24930adbc443e537b4450.xml#id-52981d0d7bf24930adbc443e537b4450"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-146fbcc4c45c44c7b0a4771f8b4c9961">
+      <bounds
+          x="12"
+          y="144"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-1f0fe6cff98f42fcb3ce400418522c2a.xml#id-1f0fe6cff98f42fcb3ce400418522c2a"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-f99d2a272bd243b19cc46cf7e077b1cd">
+      <bounds
+          x="144"
+          y="144"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-953475e9246a49f3a08b0561232ee8a2.xml#id-953475e9246a49f3a08b0561232ee8a2"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-39a96d84c8704f8e98f7267afc15c393">
+      <bounds
+          x="276"
+          y="144"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-8dc2791dcb814bb682ee7e8fec8c40a0.xml#id-8dc2791dcb814bb682ee7e8fec8c40a0"/>
     </children>
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
